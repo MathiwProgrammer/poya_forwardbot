@@ -43,6 +43,6 @@ def handle_message(client, message):
     except Exception:
         pass
 
-
 # Start the Pyrogram client
+print("I'm Alive")
 bot.run()
